@@ -1,0 +1,53 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #012952;
+    background-color: #778899;
+}
+
+h2 {
+    color: #87cefa;
+    background-color: #496d92;
+}
+
+header {
+    background-color: #778899;
+    margin-bottom: 2px;
+}
+
+footer {
+    background-color: #778899;
+    color: #00772e;
+}
+
+#cabeçalho-principal {
+    background-color: #496d92;
+    color: #012952;
+    text-align: center;
+    padding: 4px;
+}
+
+.card-noticia {
+    background-color: #496d92;
+}
+
+.card-noticia Destaques {
+    background-color: #496d92;
+}
+
+.botao {
+    background-color: #00772e;
+    color: #012952;
+    cursor: pointer;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+.alerta {
+    background-color: #496d92;
+    font-weight: bold;
+}
+
+.Destaques {
+    border: 2px solid #496d92;
+    background-color: #87cefa;
+}
